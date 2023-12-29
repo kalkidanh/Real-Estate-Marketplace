@@ -47,13 +47,13 @@ export default function Search() {
           <div className='flex items-center gap-2'>
             <label className='font-semibold'>Sort:</label>
             <select id='sort_order' className='border rounded-lg p-3'>
-              <option>Price high to low</option>
-              <option>Price low to hight</option>
+              <option>Prices high to low</option>
+              <option>Prices low to high</option>
               <option>Latest</option>
               <option>Oldest</option>
             </select>
           </div>
-          <button className='bg-slate-700 text-white p-3 rounded-lg uppercase hover:opacity-95'>
+          <button className='bg-green-700 text-white p-3 rounded-lg uppercase hover:opacity-95'>
             Search
           </button>
         </form>
