@@ -29,7 +29,7 @@ export default function Header() {
         <Link to='/'>
           <h1 className='font-bold text-sm sm:text-xl flex flex-wrap'>
             <span className='text-green-500'>Housey</span>
-            <span className='text-slate-700'>Estate</span>
+            <span className='text-slate-700'>Realtor</span>
           </h1>
         </Link>
         <form
