@@ -25,3 +25,6 @@ Prettier
 Github Copilot
 Firebase
 Render
+
+Contributors: Kalkidan Hundie
+              Wondwosen Belay
